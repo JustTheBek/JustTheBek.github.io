@@ -20,7 +20,7 @@ var store = [{
         "url": "http://localhost:4000/movies/2024-08-11-requiem/"
       },{
         "title": "Értelmet kell keresni az életnek - új poszt a Filmvilágon",
-        "excerpt":"A poszt a Filmvilág rovatban jelent meg, az alábbi linkre kattintva olvasható: http://127.0.0.1:4000/movies/2024-08-08-platoon/ actions:   label: “Ugrás a teljes posztra”icon: githuburl: “http://127.0.0.1:4000/movies/2024-08-08-platoon/”","categories": [],
+        "excerpt":"A poszt a Filmvilág rovatban jelent meg, az alábbi linkre kattintva olvasható: https://justthebek.github.io/movies/2024-08-08-platoon/ ","categories": [],
         "tags": ["A szakasz","Platoon","háború","vietnámi háború","Oliver Stone"],
         "url": "http://localhost:4000/2024/08/08/platoon-post.html"
       }]
