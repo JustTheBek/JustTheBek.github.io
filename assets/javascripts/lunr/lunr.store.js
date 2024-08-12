@@ -19,6 +19,26 @@ var store = [{
         "tags": [],
         "url": "https://justthebek.github.io//movies/2024-08-11-requiem/"
       },{
+        "title": "Keine Grenzen, keine Zäune!",
+        "excerpt":"Gondolatok az európai posztszocialista örökségről és a szabad média erejéről a Rammstein Radio című számának kapcsán.               Hamarosan… ","categories": ["Zene"],
+        "tags": ["Rammstein","Radio","Keleti blokk","Kelet-Európa","rádió","diktatúra","Lindemann"],
+        "url": "https://justthebek.github.io//music/2024-08-10-rammstein-radio/"
+      },{
+        "title": "Mélyfurás a keleti blokk lelkébe.",
+        "excerpt":"Gondolatok a kelet-közép-európai ember lelki hontalanságáról a Hobo Blues Band Középeurópai Hobo Blues című száma kapcsán.               Hamarosan… ","categories": ["Zene"],
+        "tags": ["Hobo","Deák Bill Gyula","Radio","Kelet-Európa","Közép-Európa"],
+        "url": "https://justthebek.github.io//music/2024-08-12-hobo-blues/"
+      },{
+        "title": "Superman nyálcsorgatva alszik.",
+        "excerpt":"Gondolatok a hidegháborúról, a médiapolitizálásról és a globalizált világról a Genesis Land of Confusion című száma kapcsán.               Hamarosan… ","categories": ["Zene"],
+        "tags": ["Genesis","Land of Confusion","Phill Collins","hidegháború","Ronald Reagan"],
+        "url": "https://justthebek.github.io//music/2024-08-13-genesis-land-of-confusion/"
+      },{
+        "title": "Az idő mindent elpusztít?",
+        "excerpt":"Gondolatok a hétköznapi ember által megélt rendszerváltásról és az idő természetéről az Animal Cannibals Minden változik című száma kapcsán.               Hamarosan… ","categories": ["Zene"],
+        "tags": ["Animal Cannibals","Minden változik","Kelet-Európa","Közép-Európa","rendszerváltás","történelem"],
+        "url": "https://justthebek.github.io//music/2024-08-14-an-cannib-minden-valt/"
+      },{
         "title": "Értelmet kell keresni az életnek - új poszt a Filmvilágon",
         "excerpt":"A poszt a Filmvilág rovatban jelent meg, az alábbi linkre kattintva olvasható: https://justthebek.github.io/movies/2024-08-08-platoon/ ","categories": [],
         "tags": ["A szakasz","Platoon","háború","vietnámi háború","Oliver Stone"],
