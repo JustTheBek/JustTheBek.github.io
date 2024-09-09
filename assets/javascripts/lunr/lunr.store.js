@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Szólásszabadság, vagy erkölcsi fertő?",
+        "title": "Szólásszabadság/erkölcsi fertő?",
         "excerpt":"Gondolatok a szólás- és sajtószabadságról a Larry Flint, a provokátor című film kapcsán. A filmről röviden A hetvenes évek elején a vállalkozó kedvű Larry Flynt, aki addig a szesz- és sztriptíziparban próbálgatta oroszlánkörmeit, úgy dönt, elérkezett az idő, hogy megtörje a Playboy egyeduralmát. Az általa kitalált szexújság, a Hustler magazin nem kendőzi a valóságot: mindent megmutat, amit a többi lap eddig szemérmesen eltakart. A pornómagazin hamarosan közfeltűnést kelt és közbotrányt okoz. Miközben Flynt, akit százezrek istenítenek és milliók gyűlölnek, elszántan küzd a totális sajtószabadságért, ellenfelei brutális eszközökhöz nyúlnak ellene. Személyes élmények Hamarosan… ","categories": ["film"],
         "tags": [],
         "url": "https://justthebek.github.io//film/2024/08/09/larry-flint.html"
